@@ -178,7 +178,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 👨‍💻 Author
 Your Name
 
-GitHub: @your-username
-LinkedIn: Your Name
-Email: your.email@example.com
-
+GitHub: @ankit01012005
+LinkedIn: Ankit Kumar
+Email: ankit.kumar.23@aot.edu.in
